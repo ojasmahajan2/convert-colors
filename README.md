@@ -1,4 +1,4 @@
-# ConvertColorSRC — Real-Time Terminal Color Converter
+# ConvertColor — Real-Time Terminal Color Converter
 > [!WARNING]
 > **AI Usage Disclosure**
 > This `README.md` is generated with the help of AI LLMs. That does not imply that the code is written by AI too.
